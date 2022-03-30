@@ -15,7 +15,7 @@
 
 - Competitive but fair salary 
 - Work in the UK or in Berlin, Germany fully remote
-- Comradery in a virtual team set up 
+- Camaraderie in a virtual team set up 
 - Being at the top of the tech game in the DeFi and crypto space 
 - Be the lead of a fast growing developer team working directly with the CTO 
 - Be creative and have the freedom to push the project forward 
