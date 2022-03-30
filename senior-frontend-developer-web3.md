@@ -9,6 +9,7 @@ We are looking for an enthusiastic, motivated and talented Designer / Engineer t
 We're looking for someone who really wants to be part of the team. Someone to commit and be rewarded for working with us.
 
 ## What You Will Work On
+
 You will be designing and developing the entire human facing interface for The Standard. This will include interacting with the smart contracts, APIs and more. You have the chance to join the team right at the start of the journey - shaping the actual future of The Standard.
 
 ## Your Job
