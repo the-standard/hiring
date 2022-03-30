@@ -1,6 +1,6 @@
 # Senior Frontend Designer / Developer Web3
 
-### Insert header
+**Insert header**
 
 ## What You Will Work On
 You will be designing and developing the entire human facing interface for The Standard. This will include interacting with the smart contracts, APIs and more. You have the chance to join the team right at the start of the journey - shaping the actual future of The Standard.
@@ -27,4 +27,4 @@ You will be designing and developing the entire human facing interface for The S
 - Financial markets
 - Product development / research experience
 
-### Insert footer
+**Insert footer**
