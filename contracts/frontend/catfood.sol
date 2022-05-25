@@ -8,6 +8,7 @@ import "@openzeppelin/contracts/access/AccessControl.sol";
 contract CatFood is ERC20, AccessControl {
 
     bytes32 public constant MINTER_ROLE = keccak256("MINTER_ROLE");
+    uint256 public tccf;
 
     constructor() public ERC20("CAT", "FOOD") {
         _setupRole(DEFAULT_ADMIN_ROLE, _msgSender());
@@ -21,6 +22,7 @@ contract CatFood is ERC20, AccessControl {
 
         uint256 amount = msg.value * 12937;
         _mint(msg.sender, amount);
+        tccf += amount;
     }
 
     function eat(uint256 amount) public {
@@ -33,4 +35,3 @@ contract CatFood is ERC20, AccessControl {
         return token.balanceOf(who);
     }
 }
-
