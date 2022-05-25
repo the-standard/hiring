@@ -23,7 +23,7 @@ There are a number of functions / calls but we'll focus on just four:
 
 **The Basic Challenge:**
 
-- Call tccf and disply the "total consumed cat food" on your webpage. This call is free. 
+- Call tccf and display the "total consumed cat food" on your webpage. This call is free. 
 
 **The Advanced Challege:**
 
