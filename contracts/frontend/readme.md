@@ -21,17 +21,17 @@ There are a number of functions / calls but we'll focus on just four:
 3. eat(amount) - eat some cat food
 4. supply(address) - how much is left of an address
 
-**The Basic Challenge:
+**The Basic Challenge:**
 
 - Call tccf and disply the "total consumed cat food" on your webpage. This call is free. 
 
-**The Advanced Challege:
+**The Advanced Challege:**
 
 Everything in the basic challenge, plus:
 
 - Buy some cat food. You can do this by sending at least 8888 wei to the contract, using the buy function.
 - Eat some cat food. You can do this by sending an amount of food to eat.
 
-**Super Advanced Challenge
+**Super Advanced Challenge**
 
 Do everything above and now figure out what you can and can't buy. And display these error messages on the page.
